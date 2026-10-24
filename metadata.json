@@ -1,0 +1,6 @@
+{
+  "name": "Stepwise",
+  "description": "Turns confusing instructions into clear, manageable steps with plain-language simplification, single-step focus mode, and accessible reading settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
